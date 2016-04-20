@@ -1,0 +1,73 @@
+/*
+	this is a comment in CSS 
+
+	[SELECTOR] {
+		[ rules go here ]
+		[RULE NAME]: [RULE VALUE];
+	}
+*/
+
+a {
+	color: red;	
+	font-size: 14px;
+}
+
+ul {
+	list-style: none;
+}
+
+.no-styled-list { /* the dot signifies a class */
+	color: red;
+}
+
+#large-type {
+	font-size: 50px;	
+}
+
+.red-font {
+	color: rgb( 255, 35, 0 );
+	font-size: 45px;
+}
+
+.big-title {
+	color: rgb( 225, 225, 0 );
+}
+
+.red-font span {
+	font-size: 20px;
+}
+
+/* IDIOMS */
+.span-item {
+	font-size: 20px;
+}
+
+span.span-item {
+	font-size: 20px;
+}
+
+.red-font .span-item {
+
+}
+
+h2.red-font span.span-item {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
